@@ -80,7 +80,7 @@ ErrorStatus TMP102_GetStatus(void)
 }
 
 /**
-  * @brief  reset registers to power up values. by sendi 0000000, general call address, followed by 0000 0110
+  * @brief  reset registers to power up values. by sending 0000000, general call address, followed by 0000 0110
   * @param  None
   * @retval none.
   */
